@@ -1,0 +1,14 @@
+body {
+	background-color: #0f19cd;
+}
+hr,
+p,
+body {
+	font-family:monospace
+}
+
+h1 h3 {
+	font-size: 3em;
+	line-height: 1;
+    color: #ccc;
+}
